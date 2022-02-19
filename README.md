@@ -3,12 +3,12 @@
 
 ## Description
 
-A marketing agency, Horiseon, reached out to have their codebase updated to accesibility standards so their website is more optimized for search engines and easier accessible to  people with disabilities. The webpage meets accesibility standards such that each image, figure, and icon has accessibility alt attributes describing what they look like. The source code has been updated with proper semantic HTML elements along with CSS to match the updated HTML elements. The structure of HTML and CSS codes have been condensed and structured in sequential order. The title of the website has been changed so that it describes what the website is: *Horiseon Online Marketing Agency*
+A marketing agency, Horiseon, reached out to have their codebase updated to accessibility standards so their website is more optimized for search engines and easier accessible to  people with disabilities. The webpage meets accessibility standards such that each image, figure, and icon has accessibility alt attributes describing what they look like. The source code has been updated with proper semantic HTML elements along with CSS to match the updated HTML elements. The structure of HTML and CSS codes have been condensed and structured in sequential order. The title of the website has been changed so that it describes what the website is: *Horiseon Online Marketing Agency*
 
 
 ## Links
  
-* Repo Link:  https://linnettecapul.github.io/horiseon-online-marketing-agency/
+* GitHub Repository Link:  https://linnettecapul.github.io/horiseon-online-marketing-agency/
 
 * Website Link: https://linnettecapul.github.io/horiseon-online-marketing-agency/#social-media-marketing
 
