@@ -9,9 +9,9 @@ A marketing agency, Horiseon, reached out to have their codebase updated to acce
 ## Links
 
  ```sh
-* Repo Link: (https://github.com/LinnetteCapul/horiseon-online-marketing-agency)
+* Repo Link: [https://github.com/LinnetteCapul/horiseon-online-marketing-agency](https://github.com/LinnetteCapul/horiseon-online-marketing-agency)
 
-* Website Link: [(https://linnettecapul.github.io/horiseon-online-marketing-agency/#social-media-marketing)
+* Website Link: [https://linnettecapul.github.io/horiseon-online-marketing-agency/#social-media-marketing](https://linnettecapul.github.io/horiseon-online-marketing-agency/#social-media-marketing)
 ```
 
 ## Screenshots
